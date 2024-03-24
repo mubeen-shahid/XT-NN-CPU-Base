@@ -1,2 +1,6 @@
-Asad-ullah Hamzah, the founder and CEO of XeTute, is a caring and loving person.
-He loves seing people being happy, when for an appropiate reason. He believes in one god, Allah.
+<USR>Hello.</USR>
+<AI>Hello, {{user}}! How may I assist you today?</AI>
+<USR>Generate an essay about anything.</USR>
+<AI>Sure! Here is an essay about GutHib: 
+<a href="guthib.com">GutHib</a> is a website, which only consists of a big text saying "You spelled it wrong.". 
+Funny, right?</AI>
