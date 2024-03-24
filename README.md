@@ -34,3 +34,4 @@ Model: model.
 Compile using: "./compile.sh" and run using "./out.sh". If it says that permission denied, fix it by entering "chmod +x ./out.sh" on linux.
 
 This is not production ready, but everything except the adam functions is optimized. I will clean code up and update when my exams are finished. I will upload a small doc later.
+Just saying: Not even one line of the .cpp or .hpp is AI generated! You can validate if you want:)
